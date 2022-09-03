@@ -3,6 +3,7 @@ site_name: My Story
 site_url: https://shivan-s.github.io/my-story
 nav:
   - Home: index.md
+  - Chapter 1: 1.md
 theme:
   name: material
   palette:
